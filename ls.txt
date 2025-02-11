@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x  3 maou maou 4.0K Feb 11 22:16 ./
+drwxr-x--- 16 maou maou 4.0K Feb 11 22:15 ../
+-rw-rw-r--  1 maou maou  689 Feb 11 22:13 config.txt
+-rw-rw-r--  1 maou maou  172 Feb 11 21:55 first.txt
+drwxrwxr-x  8 maou maou 4.0K Feb 11 22:16 .git/
+-rw-rw-r--  1 maou maou    0 Feb 11 22:16 ls.txt
+-rw-rw-r--  1 maou maou   12 Feb 11 21:54 README.md
+-rw-rw-r--  1 maou maou  199 Feb 11 21:56 status.txt
